@@ -28,7 +28,7 @@ export default {
 
 <style scoped>
 .home-hero {
-    background: url('https://cdn.cnn.com/cnnnext/dam/assets/140416113721-restricted-11-acdc-horizontal-large-gallery.jpg');
+    background: url('http://source.unsplash.com/0BhSKStVtdM');
     background-size: cover;
     width: 100%;
     height: 100%;
