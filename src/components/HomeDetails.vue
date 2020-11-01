@@ -11,7 +11,7 @@
                         Lorem ipsum
                     </div>
                     <p class="subheading mt-3">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Florin FLorin sit amet, consectetur adipiscing elit.
                         Cras pulvinar risus quis mauris interdum, in euismod
                         nibh pretium. Etiam pulvinar tincidunt dapibus. Quisque
                         sollicitudin, mauris a consequat consectetur, turpis
@@ -29,7 +29,7 @@
                         Lorem ipsum
                     </div>
                     <p class="subheading mt-3">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        AC/DC ipsum dolor sit amet, consectetur adipiscing elit.
                         Cras pulvinar risus quis mauris interdum, in euismod
                         nibh pretium. Etiam pulvinar tincidunt dapibus. Quisque
                         sollicitudin, mauris a consequat consectetur, turpis
