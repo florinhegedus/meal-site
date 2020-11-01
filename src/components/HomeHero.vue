@@ -13,7 +13,7 @@
                 Finally be a foodie at home with fresh, chef-prepared meals
                 delivered daily to your door.
             </div>
-            <v-btn fab class="mt-5 brown darken-4">
+            <v-btn fab class="mt-5 blue-grey darken-4">
                 <v-icon large color="white">expand_more</v-icon>
             </v-btn>
         </v-layout>

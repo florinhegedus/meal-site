@@ -1,13 +1,13 @@
 <template>
-    <v-container fluid class="brown lighten-4">
+    <v-container fluid class="blue-grey lighten-4">
         <v-container grid-list-lg>
             <v-layout column>
                 <v-flex
-                    class="display-2 font-weight-black brown--text text-xs-center my-5"
+                    class="display-2 font-weight-black black--text text-xs-center my-5"
                     >How It Works</v-flex
                 >
                 <v-flex>
-                    <div class="headline mt-3 brown--text font-weight-bold">
+                    <div class="headline mt-3 blue--text font-weight-bold">
                         Lorem ipsum
                     </div>
                     <p class="subheading mt-3">
@@ -25,7 +25,7 @@
                     </p>
                 </v-flex>
                 <v-flex>
-                    <div class="headline mt-3 brown--text font-weight-bold">
+                    <div class="headline mt-3 black--text font-weight-bold">
                         Lorem ipsum
                     </div>
                     <p class="subheading mt-3">
@@ -78,7 +78,7 @@
                     </p>
                 </v-flex>
                 <v-flex>
-                    <div class="headline mt-3 brown--text font-weight-bold">
+                    <div class="headline mt-3 black--text font-weight-bold">
                         Lorem ipsum
                     </div>
                     <p class="subheading mt-3">
