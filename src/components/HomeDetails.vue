@@ -15,10 +15,6 @@
                     <div class="headline mt-3 black--text font-weight-bold">
                         2. Choose a specific dish
                     </div>
-                    <p class="subheading mt-3">
-                        
-                    </p>
-
                 </v-flex>
                 <v-flex>
                     <div class="headline mt-3 black--text font-weight-bold">
