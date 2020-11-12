@@ -27,7 +27,7 @@
                 </v-flex>
                 <v-flex>
                     <div class="headline mt-3 black--text font-weight-bold">
-                        Lorem ipsum
+                        3. Sign in and order
                     </div>
                     <p class="subheading mt-3">
                         
