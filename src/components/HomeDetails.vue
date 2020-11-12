@@ -11,7 +11,9 @@
                         1. Choose a meal plan
                     </div>
                     <p class="subheading mt-3">
-                        
+                        Choose one of the three available plans: Keto, Paleo 
+                        and Vegan. Each plan has a large variety of dishes
+                        to choose from.
                     </p>
                 </v-flex>
                 <v-flex>
@@ -22,17 +24,10 @@
                         
                     </p>
 
-                    <p class="subheading mt-3">
-                        
-                    </p>
-
-                    <p class="subheading mt-3">
-                        
-                    </p>
                 </v-flex>
                 <v-flex>
                     <div class="headline mt-3 black--text font-weight-bold">
-                        
+                        Lorem ipsum
                     </div>
                     <p class="subheading mt-3">
                         
